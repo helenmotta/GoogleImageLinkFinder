@@ -1,0 +1,15 @@
+C:\Users\hlnbt\csharp-app\bin\Debug\net7.0\csharp-app.exe
+C:\Users\hlnbt\csharp-app\bin\Debug\net7.0\csharp-app.deps.json
+C:\Users\hlnbt\csharp-app\bin\Debug\net7.0\csharp-app.runtimeconfig.json
+C:\Users\hlnbt\csharp-app\bin\Debug\net7.0\csharp-app.dll
+C:\Users\hlnbt\csharp-app\bin\Debug\net7.0\csharp-app.pdb
+C:\Users\hlnbt\csharp-app\obj\Debug\net7.0\csharp-app.csproj.AssemblyReference.cache
+C:\Users\hlnbt\csharp-app\obj\Debug\net7.0\csharp-app.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hlnbt\csharp-app\obj\Debug\net7.0\csharp-app.AssemblyInfoInputs.cache
+C:\Users\hlnbt\csharp-app\obj\Debug\net7.0\csharp-app.AssemblyInfo.cs
+C:\Users\hlnbt\csharp-app\obj\Debug\net7.0\csharp-app.csproj.CoreCompileInputs.cache
+C:\Users\hlnbt\csharp-app\obj\Debug\net7.0\csharp-app.dll
+C:\Users\hlnbt\csharp-app\obj\Debug\net7.0\refint\csharp-app.dll
+C:\Users\hlnbt\csharp-app\obj\Debug\net7.0\csharp-app.pdb
+C:\Users\hlnbt\csharp-app\obj\Debug\net7.0\csharp-app.genruntimeconfig.cache
+C:\Users\hlnbt\csharp-app\obj\Debug\net7.0\ref\csharp-app.dll
