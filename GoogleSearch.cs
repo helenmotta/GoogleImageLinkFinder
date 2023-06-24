@@ -6,8 +6,6 @@ using HtmlAgilityPack;
 
 public class GoogleSearch
 {
-    private static readonly HttpClient httpClient = new HttpClient();
-
     public static async Task Main(string[] args)
     {
         Console.WriteLine("Digite sua pesquisa: ");
@@ -15,6 +13,8 @@ public class GoogleSearch
 
         if (String.IsNullOrEmpty(search))
         {
+            Console.Write("\n * Por favor, insira uma pesquisa. \n");
+            await Main(args);
             return;
         }
 
