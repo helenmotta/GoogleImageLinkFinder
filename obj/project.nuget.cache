@@ -1,8 +1,11 @@
 {
   "version": 2,
-  "dgSpecHash": "2J8kGeg08y4G/3X9R16sH4Dmncqzbm73KthPloRuuwhJP2k1B1sjJuX/fNF+o7AlXTsadxL2Nt3EXay7HLDNpQ==",
+  "dgSpecHash": "JmGAO28hFlX258+YOHfE+7sOZevZCmEZAyllVbdISeLXhnn71Ok3kqw0yOBx+IPYofIQJFrVDBFTmiIlk1O+rg==",
   "success": true,
   "projectFilePath": "C:\\Users\\hlnbt\\csharp-app\\csharp-app.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\hlnbt\\.nuget\\packages\\htmlagilitypack\\1.11.48\\htmlagilitypack.1.11.48.nupkg.sha512",
+    "C:\\Users\\hlnbt\\.nuget\\packages\\sixlabors.imagesharp\\3.0.1\\sixlabors.imagesharp.3.0.1.nupkg.sha512"
+  ],
   "logs": []
 }

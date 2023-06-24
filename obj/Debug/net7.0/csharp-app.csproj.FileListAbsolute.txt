@@ -13,3 +13,6 @@ C:\Users\hlnbt\csharp-app\obj\Debug\net7.0\refint\csharp-app.dll
 C:\Users\hlnbt\csharp-app\obj\Debug\net7.0\csharp-app.pdb
 C:\Users\hlnbt\csharp-app\obj\Debug\net7.0\csharp-app.genruntimeconfig.cache
 C:\Users\hlnbt\csharp-app\obj\Debug\net7.0\ref\csharp-app.dll
+C:\Users\hlnbt\csharp-app\bin\Debug\net7.0\HtmlAgilityPack.dll
+C:\Users\hlnbt\csharp-app\obj\Debug\net7.0\csharp-app.csproj.CopyComplete
+C:\Users\hlnbt\csharp-app\bin\Debug\net7.0\SixLabors.ImageSharp.dll
